@@ -1,4 +1,4 @@
-remote_theme: "pages-themes/cayman@v2.2.1"
+theme: "pages-themes/cayman@v2.2.1"
 
 plugins:
   - jekyll-seo-tag
