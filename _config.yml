@@ -1,9 +1,0 @@
-remote_theme: "pages-themes/cayman@v2.2.1"
-
-plugins:
-  - jekyll-seo-tag
-
-title: Votre titre de site
-description: Description de votre site
-
-# Vous pouvez ajouter d'autres paramètres ici
