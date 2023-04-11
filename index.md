@@ -89,6 +89,7 @@
 
         table{
             margin:0 auto;
+            width:fit-content;
         }
 
         th, td{
