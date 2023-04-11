@@ -10,16 +10,20 @@
     </div>
 
    <style>
-    body{
-        min-height: 100vh;
+    div{
         margin: 0;
         display: flex;
+        flex-direction: column;
         justify-content: center;
         align-items: center;
     }
-        div{
-            text-align: center;
-        }
+  
+    body{
+        min-height: 100vh;
+    }
+    div{
+        text-align: center;
+    }
    </style>
 </body>
 </html>
