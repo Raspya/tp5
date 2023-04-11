@@ -1,4 +1,4 @@
-**Nom :** LEFEVRE Donovan
+**Nom :** BERNOUY Matthias
 
 **Groupe :** D
 
@@ -7,6 +7,9 @@
 **IUT Le Havre - Cours GIT**
 
 ### Compte-rendu TP1 Introduction GIT
+
+
+// A REFAIRE 
 
 Dans ce TP on apprend à travailler avec git.
 
