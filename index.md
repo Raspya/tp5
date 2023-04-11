@@ -14,7 +14,6 @@ Voici une liste de mes projets :
 - [Projet 1](/projet-1)
 - [Projet 2](/projet-2)
 - [Projet 3](/projet-3)
-- Projet 4
 
 ## À propos de moi
 
