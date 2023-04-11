@@ -68,7 +68,6 @@
             width: 100px;
         }
         div{
-            width: 30%;
             margin: 0 auto;
             margin-top:60px;
             text-align: center;
@@ -77,7 +76,6 @@
             
         }
         .style{
-            width:80%;
             margin: 0 auto;
             background-color: #00E4FF;
             border-radius: 5px;
